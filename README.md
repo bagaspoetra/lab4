@@ -1,4 +1,4 @@
-# lab4
+# lab4_modular
 # Pratikum 4
 ```
 BAGAS PUTRA PERMANA
