@@ -1,6 +1,8 @@
 # lab4
 # Pratikum 4
 ```
-Bagas Putra
+BAGAS PUTRA PERMANA
+312110462
+TI.21.A3
 
 ```
